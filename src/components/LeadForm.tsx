@@ -16,7 +16,7 @@ export default function LeadForm() {
     setIsSubmitting(true);
 
     try {
-    const res = await fetch("http://localhost:3001/api/send-to-telegram", {
+    const res = await fetch("oneusmt-tonavto77-v1-ce54.twc1.net/api/send-to-telegram", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(formData),
