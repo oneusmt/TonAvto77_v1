@@ -43,14 +43,7 @@ export default function Hero() {
               >
                 Узнать стоимость авто
               </a>
-              <a
-                href="https://wa.me/79259875454"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-green-500 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-green-600 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
-              >
-                Написать в WhatsApp
-              </a>
+              
             </div>
           </div>
 
