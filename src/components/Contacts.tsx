@@ -28,9 +28,8 @@ export default function Contacts() {
             <div className="bg-yellow-400 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
               <MessageCircle className="w-8 h-8 text-slate-900" />
             </div>
-            <h3 className="font-bold text-slate-900 mb-2">WhatsApp</h3>
+            <h3 className="font-bold text-slate-900 mb-2">Max</h3>
             <a
-              href="https://wa.me/79259875454"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg text-gray-700 hover:text-slate-900"
