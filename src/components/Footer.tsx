@@ -24,15 +24,7 @@ export default function Footer() {
                 <Phone className="w-5 h-5" />
                 <span>8 (925) 987-54-54</span>
               </a>
-              <a
-                href="https://wa.me/79259875454"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center space-x-2 text-gray-300 hover:text-yellow-400 transition-colors"
-              >
-                <Mail className="w-5 h-5" />
-                <span>WhatsApp</span>
-              </a>
+            
             </div>
           </div>
 
