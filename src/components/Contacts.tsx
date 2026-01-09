@@ -19,8 +19,8 @@ export default function Contacts() {
               <Phone className="w-8 h-8 text-slate-900" />
             </div>
             <h3 className="font-bold text-slate-900 mb-2">Телефон</h3>
-            <a href="tel:+79259875454" className="text-lg text-gray-700 hover:text-slate-900">
-              8 (925) 925-54-64
+            <a href="tel:+79252545464" className="text-lg text-gray-700 hover:text-slate-900">
+              8 (925) 254-54-64
             </a>
           </div>
 
@@ -34,7 +34,7 @@ export default function Contacts() {
               rel="noopener noreferrer"
               className="text-lg text-gray-700 hover:text-slate-900"
             >
-              8 (925) 925-54-64
+              8 (925) 254-54-64
             </a>
           </div>
 
