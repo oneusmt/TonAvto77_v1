@@ -12,7 +12,7 @@ export default function Header() {
 
           <div className="flex items-center space-x-6">
             <a
-              href="tel:+79259875454"
+              href="tel:+79252545464"
               className="flex items-center space-x-2 hover:text-yellow-400 transition-colors"
             >
               <Phone className="w-5 h-5" />
