@@ -22,7 +22,7 @@ export default function Footer() {
                 className="flex items-center space-x-2 text-gray-300 hover:text-yellow-400 transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                <span>8 (925) 987-54-54</span>
+                <span>8 (925) 254-54-64</span>
               </a>
             
             </div>
