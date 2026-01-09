@@ -76,7 +76,7 @@ export default function CarTypes() {
               href="tel:+79259875454"
               className="bg-slate-900 text-white px-8 py-4 rounded-lg font-bold text-lg inline-block hover:bg-slate-800 transition-all shadow-lg"
             >
-              8 (925) 987-54-54
+              8 (925) 254-54-64
             </a>
           </div>
         </div>
