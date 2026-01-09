@@ -16,7 +16,7 @@ export default function Header() {
               className="flex items-center space-x-2 hover:text-yellow-400 transition-colors"
             >
               <Phone className="w-5 h-5" />
-              <span className="font-semibold text-lg">8 (925) 987-54-54</span>
+              <span className="font-semibold text-lg">8 (925) 254-54-64</span>
             </a>
             <a
               href="#contact"
