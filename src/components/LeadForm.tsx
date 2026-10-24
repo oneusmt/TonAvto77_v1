@@ -16,11 +16,11 @@ export default function LeadForm() {
     setIsSubmitting(true);
 
     try {
-    const res = await fetch("https://oneusmt-tonavto77-v1-4332.twc1.net/api/send-to-telegram", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(formData),
-    });
+    const res = await fetch("/api/send-to-telegram", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
 
 
       if (!res.ok) throw new Error("Ошибка");
